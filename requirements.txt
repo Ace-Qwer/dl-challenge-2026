@@ -1,1 +1,5 @@
-# Add libs when needed for ppl to download :)
+pandas
+numpy
+matplotlib
+Pillow
+openpyxl
